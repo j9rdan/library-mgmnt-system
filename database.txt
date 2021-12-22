@@ -1,0 +1,20 @@
+1:9783161484100:So You Want to Learn how to Code:Firat Batmaz:28/09/13:1025
+2:9783161484102:Mental Torture (Functional Programming):Parisa Derakhshan:04/10/05:1473
+3:9783161484102:Mental Torture (Functional Programming):Parisa Derakhshan:04/10/05:0
+4:9783161484105:The Math You Weren't Taught In School:Robert Mercas:03/07/17:1888
+5:9783161484105:The Math You Weren't Taught In School:Robert Mercas:03/07/17:3459
+6:9783161484105:The Math You Weren't Taught In School:Robert Mercas:03/07/17:0
+7:9783161484107:A Million Greek Symbols:Dominik Freydenberger:17/12/16:3000
+8:9783161484107:A Million Greek Symbols:Dominik Freydenberger:17/12/16:0
+9:9783161484107:A Million Greek Symbols:Dominik Freydenberger:17/12/16:7389
+10:9783161484107:A Million Greek Symbols:Dominik Freydenberger:17/12/16:2567
+11:9783161484111:This Is How Your Computer Works:Parisa Derakhshan:09/10/03:6731
+12:9783161484120:So You Can Program..But Are You Ready For Industry?:Russell Lock:12/05/07:0
+13:9783161484120:So You Can Program..But Are You Ready For Industry?:Russell Lock:12/05/07:0
+14:9783161484103:Website Building 101:Dr H Nevisi:01/01/13:0
+15:9783161484108:Mastering Data Structures & Algorithms:A Trehan:13/08/19:5673
+16:9783161484108:Mastering Data Structures & Algorithms:A Trehan:13/08/19:9645
+17:9783161484109:Databases for Beginners:Firat Batmaz:08/07/15:0
+18:9783161484121:Next Stop, Java!:Dr H Nevisi:30/05/15:7851
+19:9783161484121:Next Stop, Java!:Dr H Nevisi:30/05/15:0
+20:9783161484121:Next Stop, Java!:Dr H Nevisi:30/05/15:3792
